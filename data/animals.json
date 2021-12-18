@@ -118,6 +118,16 @@
         "loving"
       ],
       "id": "11"
+    },
+    {
+      "name": "Michael",
+      "species": "DJ human",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "12"
     }
   ]
 }
